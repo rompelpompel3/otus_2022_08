@@ -2,3 +2,6 @@
 #otus_2022_08
 we are QA engineers
 
+
+we are developers
+
